@@ -1,0 +1,9 @@
+﻿data_context,number_of_records,number_of_sites,mean_grade_percent,median_grade_percent,minimum_grade_percent,maximum_grade_percent
+contained_metal,1,1,,,,
+historical_estimate,2,2,33.75,33.75,10.0,60.0
+production_average,2,1,54.5,54.5,49.0,60.0
+production_grade,4,4,48.425,60.0,10.0,63.7
+resource_average,1,1,12.78,12.78,12.78,12.78
+sample_grade,1,1,37.265,37.265,25.67,48.86
+shipment_grade,5,4,44.791999999999994,44.8,35.0,60.66
+unknown,1,1,,,,
