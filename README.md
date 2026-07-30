@@ -58,3 +58,42 @@ The final score combines two components:
 
 ```text
 Final score = site screening score + geochemical score
+
+Alaska-Antimony-Exploration/
+│
+├── data/
+│   └── README.md
+│
+├── outputs/
+│   ├── figures/
+│   ├── maps/
+│   ├── tables/
+│   └── README.md
+│
+├── qgis/
+│   └── README.md
+│
+├── reports/
+│   ├── Alaska_Antimony_Exploration_Report_FR.pdf
+│   ├── Alaska_Antimony_Exploration_Report_EN.pdf
+│   └── README.md
+│
+├── scripts/
+│   ├── 01_filter_antimony_occurrences.py
+│   ├── 02_analyze_antimony_sites.py
+│   ├── 03_analyze_antimony_grades.py
+│   ├── 04_join_grades_coordinates.py
+│   ├── 05_build_site_screening.py
+│   ├── 06_antimony_economic_scenarios.py
+│   ├── 07_inspect_agdb4.py
+│   ├── 08_extract_stream_sediment_sb.py
+│   ├── 09_check_sb_extreme_values.py
+│   ├── 10_export_sb_anomalies.py
+│   ├── 11_compare_sites_sb_anomalies.py
+│   ├── 12_build_final_ranking.py
+│   ├── 13_plot_final_ranking.py
+│   └── README.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
